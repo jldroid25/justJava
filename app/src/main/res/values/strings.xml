@@ -1,0 +1,35 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Just Java</string>
+
+    <!-- Localizing our app for French Canadian Translation -->
+
+    <!--Header text for the list of toppings [CHAR LIMIT=20]  -->
+    <string name="toppings">Toppings</string>
+
+    <!--Header text for the list of Quantity [CHAR LIMIT=20]  -->
+    <string name="quantity">Quantity</string>
+
+    <!--Header text for the list of Add Chocolate [CHAR LIMIT=20]  -->
+    <string name="chocolate">Chocolate</string>
+
+    <!--Header text for the list of Whipped Cream [CHAR LIMIT=20]  -->
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <!--Thank you message for the order summary [CHAR LIMIT=NONE]  -->
+    <string name="thank_you">Thank You</string>
+
+    <!--Add Chocolate ? for the order summary [CHAR LIMIT=NONE]  -->
+    <string name="add_chocolate">Add Chocolate?</string>
+
+    <!--Add whipped cream ? for the order summary [CHAR LIMIT=NONE]  -->
+    <string name="add_whippedCream">Add Whipped Cream?</string>
+
+    <!--Header text for the list of Quantity [CHAR LIMIT=20]  -->
+    <string name="order">Order</string>
+
+    <!--Name for the order summary. It will be shown in the format of "Name
+     where James is the user's name. [CHAR LIMIT=NONE]  -->
+    <string name="order_summary_name" translatable="false">Name: <xliff:g id="custName" example="James">%s</xliff:g></string>
+
+</resources>
