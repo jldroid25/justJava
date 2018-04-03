@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
 
-    }
+    }// end submit order
 
 
     /**
@@ -137,7 +137,8 @@ public class MainActivity extends AppCompatActivity {
         }
         //Calculate the total order price by multiplying by quantity
         return basePrice * quantity;
-    }
+
+    }// end calculate price
 
     /**
      * Define an Order Summary method
